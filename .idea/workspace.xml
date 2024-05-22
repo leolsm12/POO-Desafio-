@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b9e15e-70af-4a97-b6e1-ba7b9dceb4fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/fotosTeste/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/DetalhesFornecedorScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/DetalhesFornecedorScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/FornecedoresScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/FornecedoresScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/ListaFornecedores.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/ListaFornecedores.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/testeFoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/FornecTech/src/components/screens/testeFoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/java/com/FornecTech/fornecedores/Configuration/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/java/com/FornecTech/fornecedores/Configuration/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/java/com/FornecTech/fornecedores/assets/nfl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/java/com/FornecTech/fornecedores/controller/FornecedoresController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/java/com/FornecTech/fornecedores/controller/FornecedoresController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FACULDADE/mundo 4 facul/Missao-Pratica-Nivel-1-M4/fornecedores/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula matheus/PrimeiroSite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula matheus/PrimeiroSite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula matheus/indio.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula matheus/indio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula matheus/teste.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula matheus/teste.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curso Angular capigemini/proway-computers" beforeDir="false" afterPath="$PROJECT_DIR$/../../../curso Angular capigemini/proway-computers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curso java capgemini/EntradaDados/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../curso java capgemini/EntradaDados/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curso java capgemini/MeuPrimeiroProg/src/ClassePrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../curso java capgemini/MeuPrimeiroProg/src/ClassePrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/java/com/DadosPje/DadosPjeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/java/com/DadosPje/controller/ProcessosController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/java/com/DadosPje/doc/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/java/com/DadosPje/model/Processos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/java/com/DadosPje/repository/ProcessosJpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/resources/application-prd.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mundo 3 facul/Missao-certificacao-M3/API-Pje/DadosPje/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/convert-to-unidades.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/convert-to-unidades.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/get-pokemon.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/get-pokemon.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/informacoes/informacoes.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/informacoes/informacoes.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/informacoes/informacoes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/informacoes/informacoes.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pesquisa/pesquisa.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/app/pokemon/pokemon.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/assets/icons/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/assets/icons/loupe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pokedex/poke-angular/pokedex/pesquisa-pokemon/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../teste_emprego/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../teste_emprego/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../teste_emprego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../teste_emprego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../teste_emprego/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../teste_emprego/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../teste_emprego/pokemon-modelo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../teste_emprego/pokemon-modelo.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gptgpUMlrFtPChD7IsFigEm8ny" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/workspace/Santander DIO/Java basico/POO - Desafio"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b9e15e-70af-4a97-b6e1-ba7b9dceb4fe" name="Changes" comment="" />
+      <created>1716406460350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716406460350</updated>
+    </task>
+    <servers />
+  </component>
+</project>
